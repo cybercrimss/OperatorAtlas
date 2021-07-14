@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @OperatorAtlas
+- 👀 I’m interested in FPS games, Puzzles, Roblox building/terrain work, coding, and having breakdowns over code not working!
+- 🌱 I’m currently learning discord.js, and lua.
+- 💞️ I’m looking to collaborate on a discord bot possibly
+- 📫 How to reach me -
